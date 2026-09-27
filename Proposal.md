@@ -18,7 +18,7 @@
 
 **Traditional tool:** **Playwright** 
 
-**AI-augmented tool:** 
+**AI-augmented tool:** Mabl
 
 **Backup:** **Selenium 4**
 
