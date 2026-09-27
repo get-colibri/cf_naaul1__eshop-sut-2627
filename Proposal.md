@@ -45,7 +45,7 @@
 
 - Miễn phí nên phù hợp với nhu cầu tối thiếu của sinh viên.
 
-- Tối ưu cho tác vụ kiểm thử Web Frontend (khả năng quản lý nhiều trình duyệt/context riêng biệt), hỗ 
+- Tối ưu cho tác vụ kiểm thử Web Frontend (khả năng quản lý nhiều trình duyệt/context riêng biệt), 
 
 #
 
