@@ -21,7 +21,7 @@
 - **Backup:** Selenium 4
 
 
-## 3. Comparison Matrix
+## 2. Comparison Matrix
 
 | Tiêu chí | Playwright | Mabl | Selenium 4 |
 
@@ -39,7 +39,7 @@
 
 &#8203;
 
-## 4. Recommended pick
+## . Recommended pick
 
 &#8203;
 
