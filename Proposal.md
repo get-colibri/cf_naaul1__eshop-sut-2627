@@ -51,4 +51,4 @@
 
 # 4. AI Disclosure
 
-- Gemini
+- Gemini Pro cho
