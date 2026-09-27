@@ -53,7 +53,7 @@
 
 &#8203;
 
-# Sscript
+# Seminar script
 
 &#8203;
 
