@@ -26,20 +26,6 @@
 
 &#8203;
 
-| Tiêu chí            | Playwright | Mabl | Selenium 4 |
-
-| ------------------- | ---------- | ---- | ---------- |
-
-| Phí bản quyền   |            |      |            |
-
-| Learning curve  |            |      |            |
-
-| EShop Fit |            |      |            |
-
-| AI capabilities |            |      |            |
-
-| Community      |            |      |            |
-
 &#8203;
 
 &#8203;
