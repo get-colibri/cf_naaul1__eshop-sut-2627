@@ -38,6 +38,10 @@
 
 | AI capabilities |            |      |            |
 
+&#8203;
+
+&#8203;
+
 ## 4. Recommended pick
 
 &#8203;
