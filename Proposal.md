@@ -51,4 +51,4 @@
 
 # 4. AI Disclosure
 
-- Gemini Pro cho
+- Gemini Pro cho Learning Củ
