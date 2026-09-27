@@ -14,7 +14,7 @@
 
 &#8203;
 
-# 1.  Tool short-list
+# 1Tool short-list
 
 &#8203;
 
