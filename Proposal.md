@@ -41,7 +41,7 @@
 
 ## 3. Recommended pick: Playwright
 
-- Cộng đồng phát triển cực nhanh, được Microsoft hậu thuẫn. Tài liệu xuất sắc, hỗ trợ sôi nổi qua GitHub, Discord và StackOverflow..
+- Cộng đồng phát triển cực nhanh, được Microsoft hậu thuẫn. Tài liệu xuất sắc, hỗ trợ sôi nổi qua GitHub, Discord và StackOverflow.
 
 - Miễn phí nên phù hợp với nhu cầu tối thiếu của 
 
