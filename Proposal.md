@@ -41,10 +41,10 @@
 
 ## 3. Recommended pick: Playwright
 
-- Cộng đồng cực lớn,  phát triển mạnh và hỗ trợ bởi Microsoft.  Dễ dàng tìm được tài liệu, tutorial và trợ giúp.
+- Cộng đồng cực lớn,  phát triển mạnh và hỗ trợ bởi Microsoft.Dễ dàng tìm được tài liệu, tutorial và trợ giúp.
 
-- Miễn phí nên phù hợp với nhu cầu 
+- Miễn phí nên phù hợp với nhu cầu tối thiếu của 
 
-- 
+sinh - 
 
 ## 4. AI Disclosure
