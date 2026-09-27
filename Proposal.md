@@ -38,8 +38,6 @@
 
 | AI capabilities |            |      |            |
 
-| 5\. Community       |            |      |            |
-
 ## 4. Recommended pick
 
 &#8203;
