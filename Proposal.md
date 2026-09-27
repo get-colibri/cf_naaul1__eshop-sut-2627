@@ -51,4 +51,4 @@
 
 # 4. AI Disclosure
 
-&#8203;
+- Gemini
