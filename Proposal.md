@@ -10,7 +10,9 @@
 
 - 23120064: Nguyễn Thiện Nhân	
 
-- 23120066: Võ Thiện Nhân 
+- 23120066: Võ Thiện Nhân
+
+&#8203;
 
 ## 1. Candidate tools
 
@@ -20,4 +22,4 @@
 
 **Backup:** **Steam** 
 
-## 2. Comparis
+## 2. Comparison Matrix
