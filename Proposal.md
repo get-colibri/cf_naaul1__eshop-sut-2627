@@ -18,8 +18,8 @@
 
 **Traditional tool:** **Playwright** 
 
-**AI-augmented tool:** **Photoshop** 
+**AI-augmented tool:** **** 
 
-**Backup:** **Steam**
+**Backup:** **Sel**
 
 ## 2. Comparison Matrix
