@@ -26,4 +26,4 @@
 
 &#8203;
 
-| a | Playwright | Mabl | 
+| a | Playwright | Mabl | Selenium 4 $
