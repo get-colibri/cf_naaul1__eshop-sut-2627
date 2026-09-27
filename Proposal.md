@@ -23,7 +23,7 @@
 
 ## 2. Comparison Matrix
 
-| Tiêu chí | Playwright | Mabl | Selenium 4 |
+| Tiêu chí | **Playwright **| Mabl | Selenium 4 |
 
 | :--- | :--- | :--- | :--- |
 
@@ -52,5 +52,5 @@
 ## 4. AI Disclosure
 
 - Gemini Pro cho Learning curve, AI capabilities và Community.
-- Đã cross-check
+- Đã cross-check bằng ?
 - Đã fact check các criteria, chỉnh sửa phần ngôn ngữ hỗ trợ của 3 software; .
