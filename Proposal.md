@@ -16,6 +16,6 @@
 
 **Traditional tool:** **Playwright** 
 
-**tool:** **Playwright** 
+**AI-augmented tool:** **Playwright** 
 
 **Traditional tool:** **Playwright** 
