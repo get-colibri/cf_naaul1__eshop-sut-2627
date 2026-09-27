@@ -30,7 +30,24 @@
 
 |---|---|---|---|
 
-| licence cost, learning curve, EShop fit, AI capability, community |
+| licence cost
+
+ learning curve, EShop fit, AI capability, community |
+
+&#8203;
+
+
+```plain
+| Tiêu chí            | Playwright | Mabl | Selenium 4 |
+| ------------------- | ---------- | ---- | ---------- |
+| 1\. Phí bản quyền   |            |      |            |
+| 2\. Learning curve  |            |      |            |
+| 3\. EShop Fit       |            |      |            |
+| 4\. AI capabilities |            |      |            |
+| 5\. Community       |            |      |            |
+```
+
+&#8203;
 
 ## 4. Recommended pick
 
