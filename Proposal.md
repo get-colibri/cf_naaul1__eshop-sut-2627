@@ -26,8 +26,6 @@
 
 &#8203;
 
-| a | Playwright | Mabl | Selenium 4 |%
-
 | Tiêu chí            | Playwright | Mabl | Selenium 4 |
 
 | ------------------- | ---------- | ---- | ---------- |
@@ -36,9 +34,9 @@
 
 | Learning curve  |            |      |            |
 
-| 3\. EShop Fit       |            |      |            |
+| EShop Fit       |            |      |            |
 
-| 4\. AI capabilities |            |      |            |
+| AI capabilities |            |      |            |
 
 | 5\. Community       |            |      |            |
 
