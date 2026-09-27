@@ -14,7 +14,7 @@
 
 &#8203;
 
-## 2. Candidate tools
+## 1. Candidate tools
 
 - **Traditional tool:** Playwright
 - **AI-augmented tool:** Mabl
