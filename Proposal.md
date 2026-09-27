@@ -53,7 +53,7 @@
 
 &#8203;
 
-#  AI Disclosure
+# AI Disclosure
 
 - Sử dụng Gemini Pro để tìm hiểu các phần Learning curve, AI capabilities và Community.
 - Đã cross-check các thông tin trên bằng Claude Sonnet 5 Medium.
