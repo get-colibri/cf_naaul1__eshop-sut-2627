@@ -16,13 +16,10 @@
 
 ## 2. Candidate tools
 
--**Traditional tool:** Playwright
+- **Traditional tool:** Playwright
+- **AI-augmented tool:** Mabl
+- **Backup:** Selenium 4
 
-**AI-augmented tool:** Mabl
-
-**Backup:** Selenium 4
-
-&#8203;
 
 ## 3. Comparison Matrix
 
