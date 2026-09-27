@@ -19,3 +19,5 @@
 **AI-augmented tool:** **Photoshop** 
 
 **Backup:** **Steam** 
+
+## 2.
