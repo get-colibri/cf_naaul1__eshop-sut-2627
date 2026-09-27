@@ -24,9 +24,4 @@
 
 ## 2. Comparison Matrix
 
-
-```plain
-
-```
-
 &#8203;
