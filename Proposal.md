@@ -44,10 +44,8 @@
 | 2\. Learning curve  |            |      |            |
 | 3\. EShop Fit       |            |      |            |
 | 4\. AI capabilities |            |      |            |
-| 5\. Community       |            |      |            |
+| 5\. Community       |            |      |            
 ```
-
-&#8203;
 
 ## 4. Recommended pick
 
