@@ -51,4 +51,4 @@
 
 # 4. AI Disclosure
 
-- Gemini Pro cho Learning curve, AI capabilities 
+- Gemini Pro cho Learning curve, AI capabilitiesvà  
