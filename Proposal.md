@@ -1,4 +1,4 @@
-# **CS423 – CSC15003 – Software Testing (AI-augmented · 2026)**
+# CS423 – CSC15003 – Software Testing (AI-augmented · 2026)
 
 # T2_Web_Automation_Testing
 
