@@ -41,11 +41,9 @@
 
 ## 3. Recommended pick: Playwright
 
-- Cộng đồng cực lớn và phát triển mạnh
+- Cộng đồng cực lớn và phát
 
-- Miễn phí
-
-&#8203;
+- Miễn phí nên 
 
 &#8203;
 
