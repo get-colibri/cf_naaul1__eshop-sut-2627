@@ -54,4 +54,4 @@
 ## 4. AI Disclosure
 
 - Gemini Pro cho Learning curve, AI capabilities và Community 
-- Đã cross-check phần các ngôn ngữ hỗ trợ 
+- Đã cross-check các  phần các ngôn ngữ hỗ trợ của 3 software.
