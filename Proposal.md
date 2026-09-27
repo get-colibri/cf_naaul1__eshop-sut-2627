@@ -18,8 +18,8 @@
 
 **Traditional tool:** **Playwright** 
 
-**AI-augmented tool:** **** 
+**AI-augmented tool:** 
 
-**Backup:** **Sel**
+**Backup:** **Selenium 4**
 
 ## 2. Comparison Matrix
