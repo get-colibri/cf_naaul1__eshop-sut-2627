@@ -39,7 +39,7 @@
 
 &#8203;
 
-## 3. Recommended pick: 
+## 3. Recommended pick: Playwright
 
 - 
 
