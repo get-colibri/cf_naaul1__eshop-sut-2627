@@ -39,8 +39,8 @@
 
 &#8203;
 
-## . Recommended pick
+## 3. Recommended pick
 
 &#8203;
 
-## 5. AI Disclosure
+## 4. AI Disclosure
