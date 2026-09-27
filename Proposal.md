@@ -45,6 +45,6 @@
 
 - Miễn phí nên phù hợp với nhu cầu tối thiếu của 
 
-sinh viên.- TỐi 
+sinh viên.- Tối ưu cho việc
 
 ## 4. AI Disclosure
