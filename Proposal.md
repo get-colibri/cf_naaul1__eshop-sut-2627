@@ -51,6 +51,6 @@
 
 ## 4. AI Disclosure
 
-- SuGemini Pro cho Learning curve, AI capabilities và Community.
+- Sử ụng ·Gemini Pro cho Learning curve, AI capabilities và Community.
 - Đã cross-check bằng Claude Sonnet 5 Skibidi
 - Đã fact check các criteria, chỉnh sửa phần ngôn ngữ hỗ trợ của 3 software; .
