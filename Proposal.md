@@ -20,6 +20,6 @@
 
 **AI-augmented tool:** **Photoshop** 
 
-**Backup:** **Steam** 
+**Backup:** **Steam**
 
 ## 2. Comparison Matrix
