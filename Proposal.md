@@ -4,13 +4,13 @@
 
 &#8203;
 
-** **Thành viên: ****
+** Thành viên:** ****
 
 - 23120059: Trần Đình Luân
 
 - 23120064: Nguyễn Thiện Nhân	
 
-- 23120066: Võ ThiệnNhân 
+- 23120066: Võ Thiện Nhân 
 
 &#8203;
 
