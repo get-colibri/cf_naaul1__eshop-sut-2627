@@ -53,4 +53,4 @@
 
 - Sử dụng Gemini Pro để tìm hiểu các phần Learning curve, AI capabilities và Community.
 - Đã cross-check bằng Claude Sonnet 5 Medium.
-- Đã fact check các criteria, chỉnh sửa phần ngôn ngữ hỗ trợ của 3 software; .
+- Đã fact check các criteria, chỉnh sửa phần ngôn ngữ hỗ trợ của 3 software; 
