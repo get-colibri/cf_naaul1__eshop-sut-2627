@@ -27,9 +27,7 @@
 
 | :--- | :--- | :--- | :--- |
 
-| ****1. Phí bản quyền**** | - Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0) | - Không miễn phí, không mã nguồn mở.<br>
-
-- Chi phí bản quyền dạng Subscription và được báo giá tùy chỉnh dựa trên số lượng tính năng và nhu cầu chạy test song song trên Cloud của doanh nghiệp. | - Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0) |
+| ****1. Phí bản quyền**** | - Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0) | - Không miễn phí, không mã nguồn mở.<br>- Chi phí bản quyền dạng Subscription và được báo giá tùy chỉnh dựa trên số lượng tính năng và nhu cầu chạy test song song trên Cloud của doanh nghiệp. | - Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0) |
 
 | ****2. Learning curve**** | - Độ khó cao.<br>- Đòi hỏi nền tảng lập trình vững (hỗ trợ JavaScript/TypeScript, Python, Java, .NET) và kiến thức về xử lý bất đồng bộ.<br>- Phù hợp nhất với Lập trình viên hoặc Kỹ sư tự động hóa (SDET). | - Độ khó rất thấp, dễ tiếp cận nhất trong 3 công cụ.<br>- Sử dụng mô hình low-code/no-code (ghi hình thao tác record-and-playback, kéo thả) kết hợp AI tự động sửa lỗi.<br>- Phù hợp với Manual Tester, Business Analyst (BA), hoặc người không có chuyên môn sâu về lập trình. | - Độ khó cực cao.<br>- Đòi hỏi kỹ năng lập trình xuất sắc, am hiểu cấu trúc framework (Page Object Model) và tự quản lý cơ chế chờ.<br>- Dành riêng cho Kỹ sư tự động hóa chuyên sâu. |
 
