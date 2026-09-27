@@ -14,7 +14,7 @@
 
 &#8203;
 
-## 1. 
+# 1.  
 
 ## 1. Candidate tools
 
@@ -54,5 +54,5 @@
 # 3. AI Disclosure
 
 - Sử dụng Gemini Pro để tìm hiểu các phần Learning curve, AI capabilities và Community.
-- Đã cross-check  bằng Claude Sonnet 5 Medium.
-- Đã fact check thủ công các criteria, chỉnh sửa phần ngôn ngữ hỗ trợ của 3 software; 
+- Đã cross-check các thông tin  bằng Claude Sonnet 5 Medium.
+- Đã fact check thủ công các criteria, chỉnh sửa phần ngôn ngữ hỗ trợ của 3 software
