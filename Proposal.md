@@ -41,9 +41,9 @@
 
 ## 3. Recommended pick: Playwright
 
-- Cộng đồng cực lớn và phá
+- Cộng đồng cực lớn và phát triển mạnh
 
-- 
+- Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0)
 
 -
 
