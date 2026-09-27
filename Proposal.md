@@ -23,7 +23,7 @@
 
 ## 2. Comparison Matrix
 
-| Tiêu chí | **Playwright **| Mabl | Selenium 4 |
+| Tiêu chí | **Playwright **| **Mabl **|** Selenium 4 **|
 
 | :--- | :--- | :--- | :--- |
 
