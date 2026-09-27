@@ -51,8 +51,6 @@
 
 - Tối ưu cho tác vụ kiểm thử Web Frontend (thông qua khả năng quản lý nhiều trình duyệt/context riêng biệt, cc thể chặn và can thiệp Backend API để test các lỗi bảo mật và logic cố ý cắm sẵn trong mã nguồn).
 
-#
-
-# 4. AI Disclosure
+## 4. AI Disclosure
 
 - Gemini Pro cho Learning curve, AI capabilities và Community 
