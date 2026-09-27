@@ -45,6 +45,6 @@
 
 - Miễn phí nên phù hợp với nhu cầu tối thiếu của 
 
-sinh viên.- Tối ưu cho tác vụ 
+sinh viên.- Tối ưu cho tác vụ kiểm thử 
 
 ## 4. AI Disclosure
