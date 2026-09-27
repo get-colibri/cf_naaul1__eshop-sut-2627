@@ -41,10 +41,10 @@
 
 ## 3. Recommended pick: Playwright
 
-- Cộng đồng cực lớn,  phát triển mạnh và hỗ trợ bởi Micf
+- Cộng đồng cực lớn,  phát triển mạnh và hỗ tr
 
-- Miễn phí nênphuphùphù  
+- Miễn phí 
 
-- 
+&#8203;
 
 ## 4. AI Disclosure
