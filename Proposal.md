@@ -25,5 +25,3 @@
 ## 2. Comparison Matrix
 
 &#8203;
-
-&#8203;
