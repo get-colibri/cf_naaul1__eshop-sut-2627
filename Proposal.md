@@ -43,11 +43,9 @@
 
 - Cộng đồng phát triển cực nhanh, được Microsoft hậu thuẫn. Tài liệu xuất sắc, hỗ trợ sôi nổi qua GitHub, Discord và StackOverflow.
 
-- Miễn phí nên phù hợp với nhu cầu tối thiếu của 
+- Miễn phí nên phù hợp với nhu cầu tối thiếu của sinh viên.
 
-sinh viên.
-
-- Tối ưu cho tác vụ kiểm thử Web Frontend (), 
+- Tối ưu cho tác vụ kiểm thử Web Frontend (), h
 
 #
 
