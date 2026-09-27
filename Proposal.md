@@ -54,4 +54,4 @@
 ## 4. AI Disclosure
 
 - Gemini Pro cho Learning curve, AI capabilities và Community 
-- Đã cross ch
+- Đã cross-check phần c
