@@ -30,6 +30,6 @@
 
 |---|---|---|---|
 
-|
+|icence cost, learning curve, EShop fit, AI capability, community
 
-## 4. Recommended
+## 4. Recommended pick
