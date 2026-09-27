@@ -45,6 +45,8 @@
 
 - Miễn phí nên phù hợp với nhu cầu tối thiếu của 
 
-sinh viên.- Tối ưu cho tác vụ kiểm thử Web Fro
+sinh viên.- Tối ưu cho tác vụ kiểm thử Web Frontend, 
 
-## 4. AI Disclosure
+#
+
+# 4. AI Disclosure
