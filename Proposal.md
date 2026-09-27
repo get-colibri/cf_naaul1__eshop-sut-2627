@@ -14,7 +14,7 @@
 
 &#8203;
 
-# 1.  Các 
+# 1.  
 
 ## 1. Candidate tools
 
