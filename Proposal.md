@@ -49,11 +49,11 @@
 
 &#8203;
 
-## 4.
+## 4. Kịch b
 
 &#8203;
 
-## . AI Disclosure
+## 5. AI Disclosure
 
 - Sử dụng Gemini Pro để tìm hiểu các phần Learning curve, AI capabilities và Community.
 - Đã cross-check bằng Claude Sonnet 5 Medium.
