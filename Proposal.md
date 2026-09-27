@@ -14,4 +14,8 @@
 
 ## 1. Candidate tools
 
-**Traditional tool:** **Playwright
+**Traditional tool:** **Playwright** 
+
+**Traditional tool:** **Playwright** 
+
+**Traditional tool:** **Playwright** 
