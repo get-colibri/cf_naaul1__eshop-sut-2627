@@ -1,8 +1,8 @@
-#
-
-NTNhan: 1234567890
+# **CS423 – CSC15003 – Software Testing (AI-augmented · 2026)**
 
 &#8203;
+
+NTNhan: 1234567890
 
 &#8203;
 
