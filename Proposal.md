@@ -27,7 +27,9 @@
 
 | :--- | :--- | :--- | :--- |
 
-| ****1. Phí bản quyền**** | - Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0) | - Không miễn phí, không mã nguồn mở.<br>- Chi phí bản quyền dạng Subscription và được báo giá tùy chỉnh dựa trên số lượng tính năng và nhu cầu chạy test song song trên Cloud của doanh nghiệp. | - Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0) |
+| ****1. Phí bản quyền**** | - Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0) | - Không miễn phí, không mã nguồn mở.<br>
+
+- Chi phí bản quyền dạng Subscription và được báo giá tùy chỉnh dựa trên số lượng tính năng và nhu cầu chạy test song song trên Cloud của doanh nghiệp. | - Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0) |
 
 | ****2. Learning curve**** | - Độ khó cao.<br>- Đòi hỏi nền tảng lập trình vững (hỗ trợ JavaScript/TypeScript, Python, Java, .NET) và kiến thức về xử lý bất đồng bộ.<br>- Phù hợp nhất với Lập trình viên hoặc Kỹ sư tự động hóa (SDET). | - Độ khó rất thấp, dễ tiếp cận nhất trong 3 công cụ.<br>- Sử dụng mô hình low-code/no-code (ghi hình thao tác record-and-playback, kéo thả) kết hợp AI tự động sửa lỗi.<br>- Phù hợp với Manual Tester, Business Analyst (BA), hoặc người không có chuyên môn sâu về lập trình. | - Độ khó cực cao.<br>- Đòi hỏi kỹ năng lập trình xuất sắc, am hiểu cấu trúc framework (Page Object Model) và tự quản lý cơ chế chờ.<br>- Dành riêng cho Kỹ sư tự động hóa chuyên sâu. |
 
@@ -35,7 +37,9 @@
 
 | ****4. AI capabilities**** | - Không tích hợp sẵn AI bên trong nền tảng lõi.<br>- Có thể kết hợp với AI để sinh mã.<br>- Có hỗ trợ MCP cho các AI Agent. | - Tích hợp AI rất mạnh mẽ là điểm mạnh cốt lõi.<br>- Nổi bật với tính năng Auto-healing (AI tự động cập nhật và sửa locators khi giao diện web/app thay đổi mà test không bị fail).<br>- Dùng AI để phát hiện lỗi hiển thị và tối ưu hóa thời gian chờ. | - Bản thân thư viện lõi không chứa bất kỳ tính năng AI nào.<br>- Thuần túy là công cụ điều khiển trình duyệt cơ bản.<br>- Việc áp dụng AI hoàn toàn phụ thuộc vào việc kỹ sư tự tích hợp với các thư viện hoặc AI Agent bên ngoài. |
 
-| ****5. Community**** | - Cộng đồng mã nguồn mở đang phát triển cực mạnh, được chống lưng bởi Microsoft.<br- Được thảo luận sôi nổi, tốc độ fix bug và ra mắt tính năng mới rất nhanh.<br>- Dễ dàng tìm kiếm hỗ trợ trên GitHub, Discord. | - Cộng đồng người dùng bên ngoài khá khiêm tốn do là phần mềm thương mại đóng.<br>- Rất ít tài liệu hay giải pháp chia sẻ trên các diễn đàn như StackOverflow.<br>- Việc giải quyết vấn đề chủ yếu phụ thuộc vào tài liệu nội bộ và đội ngũ Customer Support của chính hãng Mabl. | - Lâu đời nhất, phổ biến nhất và có hệ sinh thái lớn nhất.<br>- Số lượng tài liệu và khóa học vô tận.<br>- Có nhiều tài liệu cũ và lỗi thời từ Selenium 2/3 trôi nổi. |
+| ****5. Community**** | - Cộng đồng mã nguồn mở đang phát triển cực mạnh, được chống lưng bởi Microsoft.<br>
+
+- Được thảo luận sôi nổi, tốc độ fix bug và ra mắt tính năng mới rất nhanh.<br>- Dễ dàng tìm kiếm hỗ trợ trên GitHub, Discord. | - Cộng đồng người dùng bên ngoài khá khiêm tốn do là phần mềm thương mại đóng.<br>- Rất ít tài liệu hay giải pháp chia sẻ trên các diễn đàn như StackOverflow.<br>- Việc giải quyết vấn đề chủ yếu phụ thuộc vào tài liệu nội bộ và đội ngũ Customer Support của chính hãng Mabl. | - Lâu đời nhất, phổ biến nhất và có hệ sinh thái lớn nhất.<br>- Số lượng tài liệu và khóa học vô tận.<br>- Có nhiều tài liệu cũ và lỗi thời từ Selenium 2/3 trôi nổi. |
 
 &#8203;
 
