@@ -16,6 +16,6 @@
 
 **Traditional tool:** **Playwright** 
 
-**AI-augmented tool:** **P** 
+**AI-augmented tool:** **Photoshop** 
 
-**Backup:** **Playwright** 
+**Backup:** **Steam** 
