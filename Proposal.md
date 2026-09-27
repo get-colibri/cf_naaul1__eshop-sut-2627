@@ -2,11 +2,9 @@
 
 # T2_Web_Automation_Testing
 
-** **Thành viên:** **
+** Thành viên: **
 
 - 23120059: Trần Đình Luân
-
-&#8203;
 
 - 23120064: Nguyễn Thiện Nhân	
 
