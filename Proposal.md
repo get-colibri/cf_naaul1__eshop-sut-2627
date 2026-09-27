@@ -18,4 +18,4 @@
 
 **AI-augmented tool:** **Playwright** 
 
-**Traditional tool:** **Playwright** 
+**Backup tool:** **Playwright** 
