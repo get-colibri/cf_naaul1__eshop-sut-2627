@@ -41,7 +41,7 @@
 
 ## 3. Recommended pick: Playwright
 
-- Cộng d
+- Cộng đồng cực lớn và phá
 
 - 
 
