@@ -41,8 +41,12 @@
 
 ## 3. Recommended pick: Playwright
 
-- Cộng đồng cực lớn,  phát triển mạnh và hỗ tro
+- Cộng đồng cực lớn,  phát triển mạnh và hỗ
+
+&#8203;
 
 - Miễn phí 
+
+- 
 
 ## 4. AI Disclosure
