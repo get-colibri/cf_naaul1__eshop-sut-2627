@@ -43,9 +43,9 @@
 
 - Cộng đồng cực lớn và phát triển mạnh
 
-- Hoàn toàn miễn phí và mã nguồn mở (Giấy phép Apache License 2.0)
+- Miễn phí
 
--
+&#8203;
 
 &#8203;
 
