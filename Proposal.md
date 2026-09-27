@@ -41,6 +41,6 @@
 
 ## 3. Recommended pick
 
-&#8203;
+-
 
 ## 4. AI Disclosure
