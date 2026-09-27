@@ -32,7 +32,7 @@
 
 | licence cost | | | |
 
- learning curve, EShop fit, AI capability, community |
+| learning curve | | EShop fit, AI capability, community |
 
 &#8203;
 
