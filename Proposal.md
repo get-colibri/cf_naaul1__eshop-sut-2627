@@ -1,8 +1,8 @@
 # **CS423 – CSC15003 – Software Testing (AI-augmented · 2026)**
 
-# T2_Web_Automation_Té
+# T2_Web_Automation_Testing
 
-** Thành viên: **
+** **Thành viên:** **
 
 - 23120059: Trần Đình Luân
 
