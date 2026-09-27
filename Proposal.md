@@ -41,7 +41,7 @@
 
 ## 3. Recommended pick: Playwright
 
-- Coojngg đo
+- Cộng d
 
 - 
 
