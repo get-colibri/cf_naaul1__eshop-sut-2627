@@ -41,9 +41,7 @@
 
 ## 3. Recommended pick: Playwright
 
-- Cộng đồng cực lớn,  phát triển mạnh và hỗ
-
-&#8203;
+- Cộng đồng cực lớn,  phát triển mạnh và hỗ trợ bởi Microsoft
 
 - Miễn phí 
 
