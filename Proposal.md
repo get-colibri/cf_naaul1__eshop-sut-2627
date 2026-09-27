@@ -56,4 +56,4 @@
 - Sử dụng Gemini Pro để tìm hiểu các phần Learning curve, AI capabilities và Community.
 - Đã cross-check các thông tin trên bằng Claude Sonnet 5 Medium.
 - Đã fact check thủ công các criteria, chỉnh sửa phần ngôn ngữ hỗ trợ của 3 software.
-- Có sử dụng GitHub CoPilot để đánh giá 
+- Có sử dụng GitHub CoPilot để đánh giá mức độ phù hợp của
