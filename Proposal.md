@@ -34,9 +34,11 @@
 
 | Learning curve  |            |      |            |
 
-| EShop Fit       |            |      |            |
+| EShop Fit |            |      |            |
 
 | AI capabilities |            |      |            |
+
+| Community      |            |      |            |
 
 &#8203;
 
