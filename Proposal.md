@@ -24,4 +24,4 @@
 
 ## 2. Comparison Matrix
 
-|
+|a|b|c
