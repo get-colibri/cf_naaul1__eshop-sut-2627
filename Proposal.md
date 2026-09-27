@@ -1,6 +1,6 @@
 # CS423 – CSC15003 – Software Testing (AI-augmented · 2026)
 
-# T2_Web_Automation_Testing
+# 1. Topic: T2_Web_Automation_Testing
 
 &#8203;
 
@@ -26,4 +26,6 @@
 
 &#8203;
 
-| a | Playwright | Mabl | Selenium 4 $
+| a | Playwright | Mabl | Selenium 4 |
+
+|,
