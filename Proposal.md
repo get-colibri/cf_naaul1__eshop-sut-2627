@@ -14,7 +14,7 @@
 
 &#8203;
 
-## 1. Candidate tools
+## 2. Candidate tools
 
 **Traditional tool:** Playwright
 
@@ -22,10 +22,10 @@
 
 **Backup:** Selenium 4
 
-## 2. Comparison Matrix
+## 3. Comparison Matrix
 
 &#8203;
 
 | a | Playwright | Mabl | Selenium 4 |
 
-|,
+|---|---|---|--
