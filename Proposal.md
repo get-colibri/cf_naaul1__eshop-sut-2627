@@ -1,10 +1,10 @@
 # **CS423 – CSC15003 – Software Testing (AI-augmented · 2026)**
 
-# T
+# T2_
 
 ** Thành viên: **
 
-- 23120059:: Trần Đình Luân
+- 23120059::Trần Đình Luân
 
 - 23120064: Nguyễn Thiện Nhân	
 
